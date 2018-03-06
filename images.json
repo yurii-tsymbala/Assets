@@ -1,6 +1,11 @@
-{  
-   "id":1,
-   "name":"Instagram Firebase",
-   "link":"https://www.letsbuildthatapp.com/course/instagram-firebase",
-   "imageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/04782e30-d72a-4917-9d7a-c862226e0a93"
-}
+-{
+ -   "images":[
+ -      {
+ -         "name":"1",
+ -         "link":"https://github.com/yurii-tsymbala/Assets/blob/master/1.png"
+ -      },
+ -      {
+ -         "name":"2",
+ -         "link":"https://github.com/yurii-tsymbala/Assets/blob/master/2.png"
+ -      }
+ -   ]
